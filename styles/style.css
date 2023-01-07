@@ -178,3 +178,30 @@ button {
     height: 64px;
     margin-left: 60px;
 }
+/* bonus */
+.bonusMark{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.subBonus{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    border: 2px solid gray;
+    padding: 0 0 40px 0;
+}
+.bonusTitle{
+    margin-top: 70px;
+    font-size: 30px;
+}
+.bonusImage{
+    width: 68%;
+    height: 58vh;
+}
+.bonusDescription{
+    font-size: 19px;
+    color: #6e6565;
+    margin-left: 130px;
+}
